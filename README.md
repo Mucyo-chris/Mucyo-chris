@@ -1,7 +1,8 @@
 <!-- MATRIX HACKER BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ErikThiart/animated-gifs/master/images/matrix-code-rain.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/0xk1h0/0xk1h0/main/assets/terminal.gif" width="100%"/>
 </p>
+
 
 <h1 align="center">🟩 Mucyo Chris — Full-Stack Developer | Backend Specialist</h1>
 
@@ -93,13 +94,11 @@ Always open for partnerships and learning from other developers.
 ---
 
 ## 🚀 Contact Me
-📩 Email: *[add your email here]*  
+📩 Email: *[chrismucyo688@gmail.com]*  
 💼 GitHub: **Mucyo-chris**  
 🏗 Always building. Always improving.
 
 ---
-
 <p align="center">
-  <img src="https://i.imgur.com/VUkxR1V.gif" width="60%">
+  <img src="https://raw.githubusercontent.com/0xk1h0/0xk1h0/main/assets/terminal.gif" width="100%"/>
 </p>
-
