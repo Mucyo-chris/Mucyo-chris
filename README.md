@@ -1,6 +1,6 @@
 <!-- MATRIX HACKER BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/2c9N9Wf.gif" width="100%" alt="Matrix Banner"/>
+  <img src="https://raw.githubusercontent.com/ErikThiart/animated-gifs/master/images/matrix-code-rain.gif" width="100%"/>
 </p>
 
 <h1 align="center">🟩 Mucyo Chris — Full-Stack Developer | Backend Specialist</h1>
