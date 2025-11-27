@@ -15,6 +15,7 @@
 - 🔥 Full-stack dev skilled in **React, Node.js, Laravel, PHP, and MySQL**
 - 🚀 Love building **school systems, e-commerce backends, and automation**
 - 🧠 Strong in debugging, APIs, backend architecture
+- 🦾 Training models ,Machine learning and Blockchain dev ⚒️
 - 🟩 Working with **open-source tools only** — no paid services
 - 🇷🇼 Based in Rwanda, available for collaborations and projects
 
