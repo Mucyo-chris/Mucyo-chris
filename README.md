@@ -3,105 +3,120 @@
   <img src="https://raw.githubusercontent.com/ErikThiart/animated-gifs/master/images/matrix-code-rain.gif" width="100%" />
 </p>
 
-<h1 align="center">🟩 Mucyo Chris — Full-Stack Developer (React + Laravel + Node.js)</h1>
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
+  Hi, I'm <a href="http://www.danielcela.com/"><img src="https://github.com/user-attachments/assets/8e2fc82d-5062-4c00-bd84-2da0a68a6179" alt="Daniel's GitHub Avatar" width="60px"/> Mucyo Chris</a>!
+  <img align="right" src="https://komarev.com/ghpvc/?username=celadaniel" alt="GitHub profile views counter">
+</h1>
 
-<p align="center">
-  <em>"Turning ideas into clean, scalable, production-ready systems."</em>
-</p>
+<div>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
+</div>
 
----
+### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Coding like it’s 2050, but debugging like it’s 1999.</div> 
 
-## 🧑‍💻 About Me
-- 🔥 Full-stack dev skilled in **React, Node.js, Laravel, PHP, and MySQL**
-- 🚀 Love building **school systems, e-commerce backends, and automation**
-- 🧠 Strong in debugging, APIs, backend architecture
-- 🦾 Training models ,Machine learning and Blockchain dev ⚒️
-- 🟩 Working with **open-source tools only** — no paid services
-- 🇷🇼 Based in Rwanda, available for collaborations and projects
 
----
+<ul>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>Kigali , Rwanda</strong>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer Emoji" width="25px" align="center" /> Explore My Work: <a href="http://www.danielcela.com/" target="_blank"><strong>Dev404</strong></a>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email Emoji" width="25px" align="center" /> Contact me @: <a href="mailto:danielcela.contact@gmail.com"><strong>Mucyo_chris</strong></a>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="Rocket Emoji" width="25px" align="center" /> Currently building <strong>School-managament-AI</strong>
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Exploring <strong>AI</strong> Training models 🦾,Machine learning and Blockchain dev ⚒️
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Working with<strong>open-source tools only </strong>  — no paid services
+  </li>
+</ul>
 
-## ⚙️ Tech Stack
 
-### 🟩 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,html,css" />
-</p>
 
-### 🟩 Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,bootstrap" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+  
+  ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians Emoji" width="30px" align="center" /> Let's Stay Connected:</div>
+  
 
-### 🟩 Databases / Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Join%20My%20Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/celadaniel) 
+[![XING](https://img.shields.io/badge/XING-Let's%20Connect%20-006567?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Daniel_Cela)  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
 
-### 🟩 Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
-</p>
 
----
 
-## 🏆 Achievements
-✔ Built **XY Shop** (full e-commerce system)  
-✔ Designed **School Management System (Laravel + AI)**  
-✔ Created **RFID Attendance System** integrated with PHP backend  
-✔ Completed **Backend System Design & DevOps assessments**  
-✔ Built systems using **0 money** — fully optimized open-source stack  
-✔ Strong performance in **math, PHP, backend exams, Node.js assessments**  
-✔ Worked on **real local client projects** and school IT projects  
+  ## <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30px" align="center" alt="Laptop Emoji" /> Technical Skills:</div>
 
----
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+  ![ContextAPI](https://img.shields.io/badge/ContextAPI-61DAFB?style=flat&logo=react&logoColor=black)
+  ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+  ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat&logo=nuxtdotjs&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+  ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+  ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+  ![GSAP](https://img.shields.io/badge/GSAP-black?style=flat&logo=greensock&logoColor=00FF88)
+  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+  ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+  ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+  ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+  ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+  ![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+  ![TypeORM](https://img.shields.io/badge/TypeORM-FF6F00?style=flat&logo=typeorm&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![NX](https://img.shields.io/badge/NX-143055?style=flat&logo=nx&logoColor=white)
+  ![Lerna](https://img.shields.io/badge/Lerna-3E4E88?style=flat&logo=lerna&logoColor=white)
+  ![Caddy](https://img.shields.io/badge/Caddy-000000?style=flat&logo=caddy&logoColor=white&labelColor=000000)
+  ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat&logo=nginx&logoColor=white)
+  ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+  ![Wix](https://img.shields.io/badge/Wix-000?style=flat&logo=wix&logoColor=white)
+  ![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+  ![Apollo](https://img.shields.io/badge/Apollo-311C87?style=flat&logo=apollographql&logoColor=white)
+  ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
+  ![SEO](https://img.shields.io/badge/SEO-FFA500?style=flat&logo=google&logoColor=black)
+  ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
+  ![PixiJS](https://img.shields.io/badge/PixiJS-FFDD00?style=flat&logo=pixiv&logoColor=black)
+  ![Spine](https://img.shields.io/badge/Spine-FFB83D?style=flat&logo=spine&logoColor=black)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+  
+<br/>
 
-## 🤝 Collaboration & Experience
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
 
-I’ve collaborated with:
+<br/>
 
-- 🟩 **Kingdom Gate School** – backend + automation tools  
-- 🟩 **Local Rwandan developers** building real projects  
-- 🟩 Teams using **Node.js, React, PHP, Laravel**  
-- 🟩 Students and freelancers needing backend assistance  
-
-Always open to teamwork and new challenges.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Mucyo-chris&show_icons=true&theme=matrix" />
-  <img width="43%" src="https://github-readme-streak-stats.herokuapp.com?user=Mucyo-chris&theme=matrix" />
-</p>
-
----
-
-## 🧬 Most Used Languages
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mucyo-chris&layout=compact&theme=matrix" />
-</p>
-
----
-
-## 🐍 Matrix Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🚀 Connect With Me
-
-📩 Email: **[chrismucyo688@gmail.com]**  
-💼 GitHub: **Mucyo-chris**  
-🌍 Open to collaboration, backend roles, and real-world projects  
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ErikThiart/animated-gifs/master/images/matrix-green.gif" width="60%">
-</p>
+<a href="https://github.com/CelaDaniel" target="_blank">
+  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
+</a>
 
