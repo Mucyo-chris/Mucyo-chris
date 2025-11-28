@@ -120,3 +120,34 @@
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
 </a>
 
+## 🏆 Achievements (Real Work I’ve Done)
+
+✔ Built **XY Shop**, an e-commerce system where users add, buy, manage products  
+✔ Developed **School Management System** with Laravel & AI features  
+✔ Created **RFID Attendance System** (PHP + hardware integration)  
+✔ Completed **Backend System Design Assessments**  
+✔ Built projects without paid services — 100% open-source tools  
+✔ Solved real industry-style backend architecture challenges  
+✔ Strong debugging & DevOps fundamentals  
+
+---
+
+## 🤝 Collaboration & Experience
+
+I have collaborated with:
+
+- 🟩 **Kingdom Gate School** – backend + school system tools  
+- 🟩 **Local developers in Rwanda** building real client systems  
+- 🟩 **Freelance clients** needing websites & automation  
+- 🟩 **Teams working with Node.js, React & Laravel**
+
+Always open for partnerships and learning from other developers.
+
+---
+
+## 🧬 Most Used Languages
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mucyo-chris&layout=compact&theme=matrix" />
+</p>
+
+---
