@@ -143,11 +143,12 @@ I have collaborated with:
 
 Always open for partnerships and learning from other developers.
 
+
+## 🚀 Connect With Me
+
+📩 Email: **[chrismucyo688@gmail.com]**  
+💼 GitHub: **Mucyo-chris**  
+🌍 Open to collaboration, backend roles, and real-world projects  
+
 ---
 
-## 🧬 Most Used Languages
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mucyo-chris&layout=compact&theme=matrix" />
-</p>
-
----
