@@ -147,6 +147,7 @@ Always open for partnerships and learning from other developers.
 📩 Email: **[chrismucyo688@gmail.com]**  
 💼 GitHub: **Mucyo-chris**  
 🌍 Open to collaboration, backend roles, and real-world projects  
+<a href="https://www.buymeacoffee.com/hessaydi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 ---
 
