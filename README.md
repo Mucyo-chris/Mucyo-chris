@@ -14,7 +14,7 @@
 ### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px" align="center" alt="Rocket Emoji"/> Coding like it’s 2050, but debugging like it’s 1999.</div> 
 
 
-<ul>
+<ul> 
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe" width="25px" align="center" /> Based in <strong>Kigali , Rwanda</strong>
   </li>
@@ -149,5 +149,5 @@ Always open for partnerships and learning from other developers.
 🌍 Open to collaboration, backend roles, and real-world projects  
 <a href="https://www.buymeaoffee.com/hessaydi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
----
+--- 
 
