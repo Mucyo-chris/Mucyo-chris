@@ -146,7 +146,10 @@ Always open for partnerships and learning from other developers.
 
 📩 Email: **[chrismucyo688@gmail.com]**  
 💼 GitHub: **Mucyo-chris**  
-🌍 Open to collaboration, backend roles, and real-world projects  
+🌍 Open to collaboration, backend roles, and real-world projects
+
+<a href="https://preview--growthleap-hub.lovable.app/"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
 <a href="https://www.buymeaoffee.com/hessaydi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 --- 
