@@ -150,8 +150,6 @@ Always open for partnerships and learning from other developers.
 
 <a href="https://preview--growthleap-hub.lovable.app/"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-<a href="https://www.buymeaoffee.com/hessaydi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
 --- 
 
    
