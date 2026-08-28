@@ -121,7 +121,7 @@
 ## 🏆 Achievements (Real Work I’ve Done)
 
 ✔ Built **XY Shop**, an e-commerce system where users add, buy, manage products  
-✔ Developed **School Management System** with Laravel & AI features  
+✔ Developed **School Management System AI** with React.js & AI features  
 ✔ Created **RFID Attendance System** (PHP + hardware integration)  
 ✔ Completed **Backend System Design Assessments**  
 ✔ Built projects without paid services — 100% open-source tools  
